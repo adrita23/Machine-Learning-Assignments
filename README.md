@@ -1,2 +1,3 @@
-# Machine-Learning-Assignments
-This contains the hw I have done as part of my coursework
+# Machine-Learning_Assignment1
+
+This is part of my coursework where I have worked with classification with KNN Algorithm.
